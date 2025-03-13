@@ -21,7 +21,7 @@ public class Formes2 {
         mesFormes[4] = d1;
         mesFormes[5] = t2;
         mesFormes[8] = c2;
-        mesFormes[9] = r2;
+        mesFormes[9] = r1;
 
         // Cool, on ne peut plus y mettre de String puisque ce n'est pas une "Forme"
 //        mesFormes[6] = "Coucou je suis une chaîne de caractères";
@@ -39,3 +39,4 @@ public class Formes2 {
             }
         }
     }
+}
